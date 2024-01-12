@@ -1,6 +1,6 @@
 ### Hi there, I am Jaee!
 
-Sophomore studying Computer Science and Biology at Ashoka University. 
+My code compiles sometimes and then I upload it here  
 
 
 - I am currently interested in computational biology, genomics and bioinformatics
