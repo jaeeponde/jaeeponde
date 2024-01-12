@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jaee!</h1>
-<h3 align="center">My code compiles sometimes and then I upload it here.</h3>
+Hi 👋, I'm Jaee!
+>My code compiles sometimes and then I upload it here.
 
 - I’m currently interested in **computational biology, genomics and bioinformatics**
 
@@ -11,7 +11,6 @@
 
 - Reach me on **jaeeponde@gmail.com,jaee.ponde_ug25@ashoka.edu.in**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
