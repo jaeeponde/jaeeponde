@@ -1,4 +1,5 @@
-Hi 👋, I'm Jaee!
+**Hi 👋, I'm Jaee!**
+
 My code compiles sometimes and then I upload it here.
 
 - I’m currently interested in **computational biology, genomics and bioinformatics**
