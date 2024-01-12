@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I am Jaee!
 
-<!--
-**jaeeponde/jaeeponde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sophomore studying Computer Science and Biology at Ashoka University. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am currently interested in computational biology, genomics and bioinformatics
+
+- Exploring Machine Learning applications on biological datasets
+
+- Python, C, R & MATLAB
+
+- Building models to simulate biological processes mathematically
+
+- All my projects and courseworks can be found in the repositories :) 
+
+
+Reach me on **jaeeponde@gmail.com** or **jaee.ponde_ug25@ashoka.edu.in**
+
