@@ -8,6 +8,8 @@ My code compiles sometimes and then I upload it here.
 
 - Exploring **Machine Learning applications on biological datasets**
 
+- I enjoy **using technology to solve daily life problems - or, to create useless but fun side projects**
+
 - Languages I use are **Python, C, R, SQL & MATLAB**
 
 - Reach me on **jaeeponde@gmail.com,jaee.ponde_ug25@ashoka.edu.in**
